@@ -119,57 +119,106 @@ A comprehensive checklist for successfully implementing Odoo ERP in small to med
 
 #### 3.2.1 Project Finance Module Setup
 
+##### A. **Project Lifecycle & Development Workflow**
+
 - [ ] Configure project development stage workflow (e.g. Development → CDC Approval → Financial Close → Construction → Operations)
+- [ ] Configure project milestone tracking with automated government reporting
+- [ ] Set up refinancing procedure workflows under Cambodia's banking and finance laws
+
+##### B. **Investor & Sponsor Management**
+
 - [ ] Set up sponsor and investor relationship management with foreign investment compliance tracking
+- [ ] Configure Bilateral Investment Treaty (BIT) protection document management
+- [ ] Set up ASEAN investment framework compliance tracking (where applicable)
+
+##### C. **Financing Structure & Security**
+
 - [ ] Configure financing structure document templates and workflows
 - [ ] Set up collateral perfection tracking under Cambodia's secured transactions framework
-- [ ] Configure Environmental and Social Impact Assessment (ESIA) document management
+
+##### D. **Permits, Compliance & Government Approvals**
+
 - [ ] Set up Council for Development of Cambodia (CDC) investment approval workflow automation
 - [ ] Configure Qualified Investment Project (QIP) incentive tracking and compliance monitoring
 - [ ] Set up government permits and approvals tracking system for sector-specific projects
-- [ ] Configure land concession and Economic Land Concession (ELC) document management
-- [ ] Set up insurance requirements tracking and compliance alerts
-- [ ] Configure cross-border financing compliance monitoring with NBC foreign exchange regulations
-- [ ] Set up refinancing procedure workflows under Cambodia's banking and finance laws
-- [ ] Configure project milestone tracking with automated government reporting
-- [ ] Set up ASEAN investment framework compliance tracking (where applicable)
-- [ ] Configure Bilateral Investment Treaty (BIT) protection document management
-- [ ] Set up Special Economic Zone (SEZ) regulatory compliance tracking (if applicable)
-- [ ] Configure Public-Private Partnership (PPP) framework tracking and compliance monitoring
-- [ ] Set up anti-corruption compliance tracking and reporting
-- [ ] Configure local content and employment requirements monitoring
 - [ ] Set up tax incentive optimization tracking under Investment Law and QIP status
+- [ ] Configure anti-corruption compliance tracking and reporting
+
+##### E. **Regulatory & Legal Documentation**
+
 - [ ] Configure arbitration clause enforcement tracking under Cambodia's arbitration framework
 - [ ] Set up force majeure provision templates adapted to Cambodia's legal context
 
+##### F. **Sector-Specific Requirements**
+
+- [ ] Configure Environmental and Social Impact Assessment (ESIA) document management
+- [ ] Configure land concession and Economic Land Concession (ELC) document management
+- [ ] Set up Special Economic Zone (SEZ) regulatory compliance tracking (if applicable)
+- [ ] Configure Public-Private Partnership (PPP) framework tracking and compliance monitoring
+- [ ] Configure local content and employment requirements monitoring
+
+##### G. **Cross-Border & Foreign Exchange Compliance**
+
+- [ ] Configure cross-border financing compliance monitoring with NBC foreign exchange regulations
+
+##### H. **Risk & Insurance Management**
+
+- [ ] Set up insurance requirements tracking and compliance alerts
+
 #### 3.2.2 Banking and Finance Law Module Setup
 
+##### A. **Loan & Facility Management**
+
 - [ ] Configure loan agreement and facility tracking system (commercial and microfinance)
-- [ ] Set up regulatory compliance monitoring dashboard (NBC Prudential Regulations)
+- [ ] Configure collateral registration and perfection procedure workflows
+
+##### B. **Licensing & Oversight (Financial Services)**
+
 - [ ] Configure banking and financial institution licensing workflow automation
 - [ ] Set up microfinance institution (MFI) registration and compliance tracking
-- [ ] Configure Securities and Capital Market Authority of Cambodia (SCMC) filing workflows
-- [ ] Set up credit bureau reporting and data sharing compliance monitoring
-- [ ] Configure banking examination and NBC regulatory response tracking system
-- [ ] Set up anti-money laundering (AML) compliance monitoring and reporting
-- [ ] Configure Know Your Customer (KYC) document management and verification
-- [ ] Set up financial services dispute resolution and enforcement tracking
-- [ ] Configure foreign exchange license and transaction compliance monitoring
-- [ ] Set up digital banking and fintech regulatory compliance monitoring
-- [ ] Set up foreign exchange business licensing and oversight tracking
-- [ ] Set up payment service provider (PSP) licensing and oversight tracking
 - [ ] Set up financial leasing business licensing and oversight workflows
 - [ ] Set up pawnshop and transfer as security business licensing and oversight tracking
 - [ ] Set up insurance business licensing and oversight tracking
 - [ ] Set up commercial gambling business licensing and oversight tracking
 - [ ] Set up trust licensing and oversight tracking
-- [ ] Configure cross-border banking and correspondent relationship management
-- [ ] Set up Islamic banking Shariah compliance tracking (if applicable)
-- [ ] Configure consumer protection and fair lending practice compliance monitoring
-- [ ] Set up interest rate regulation and usury law compliance tracking
-- [ ] Configure collateral registration and perfection procedure workflows
-- [ ] Set up bankruptcy and insolvency proceedings tracking
+- [ ] Set up payment service provider (PSP) licensing and oversight tracking
+- [ ] Set up digital banking and fintech regulatory compliance monitoring
+- [ ] Set up foreign exchange business licensing and oversight tracking
+
+##### C. **Regulatory Reporting & Compliance**
+
+- [ ] Set up regulatory compliance monitoring dashboard (NBC Prudential Regulations)
+- [ ] Configure Securities and Capital Market Authority of Cambodia (SCMC) filing workflows
+- [ ] Configure banking examination and NBC regulatory response tracking system
 - [ ] Configure reporting requirements and deadline management system
+
+##### D. **AML, KYC & Consumer Protection**
+
+- [ ] Set up anti-money laundering (AML) compliance monitoring and reporting
+- [ ] Configure Know Your Customer (KYC) document management and verification
+- [ ] Configure consumer protection and fair lending practice compliance monitoring
+
+##### E. **Foreign Exchange & Cross-Border Transactions**
+
+- [ ] Configure foreign exchange license and transaction compliance monitoring
+- [ ] Configure cross-border banking and correspondent relationship management
+
+##### F. **Alternative & Specialized Finance**
+
+- [ ] Set up Islamic banking Shariah compliance tracking (if applicable)
+
+##### G. **Dispute Resolution & Insolvency**
+
+- [ ] Set up financial services dispute resolution and enforcement tracking
+- [ ] Set up bankruptcy and insolvency proceedings tracking
+
+##### H. **Interest Rate & Usury Compliance**
+
+- [ ] Set up interest rate regulation and usury law compliance tracking
+
+##### I. **Credit & Data Reporting**
+
+- [ ] Set up credit bureau reporting and data sharing compliance monitoring
 
 #### 3.2.3 Litigation Cases Module Setup
 
